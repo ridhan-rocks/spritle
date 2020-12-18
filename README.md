@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-*[General Info](#general-info)
-*[Algorithm](#algorithm)
-*[Technologies](#technologies)
-*[Sample Output](sample-output)
+* [General Info](#general-info)
+* [Algorithm](#algorithm)
+* [Technologies](#technologies)
+* [Sample Output](sample-output)
 
 ## General Info
 This project allots seats to passengers in airplane according to a way in which seats are filled from left to right , aisle seats first followed by window seats, then followed by middle seats.
