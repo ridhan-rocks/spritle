@@ -1,6 +1,6 @@
 # spritle
 
-##Table of Contents
+## Table of Contents
 
 *[General Info](#general-info)
 *[Algorithm](#algorithm)
@@ -27,18 +27,18 @@ The number of passengers and Seat array is taken as input.
      Now start filling them from left to rigt.
      Do the same for rows from top to bottom. Afunction is returned saying "middle seats filled".
      
-##Technologies
+## Technologies
 
 * Python 3.9
 * VS Code
 
 ## Sample Input/ Output:
-#Input
+# Input
 
 * Number of passengers:30
 * Seat Array:[[3, 2], [4, 3], [2, 3], [3, 4]]
 
-#Output
+# Output
 
 +--+--+--+    +--+--+--+--+    +--+--+    +--+--+--+
 |19|25|1 |    |2 |26|27|3 |    |4 |5 |    |6 |28|20|
